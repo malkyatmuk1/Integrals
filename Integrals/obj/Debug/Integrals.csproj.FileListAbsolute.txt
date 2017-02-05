@@ -1,0 +1,6 @@
+C:\Users\malkyatmuk\Desktop\Integrals\Integrals\bin\Debug\Integrals.exe.config
+C:\Users\malkyatmuk\Desktop\Integrals\Integrals\obj\Debug\Integrals.csprojResolveAssemblyReference.cache
+C:\Users\malkyatmuk\Desktop\Integrals\Integrals\bin\Debug\Integrals.exe
+C:\Users\malkyatmuk\Desktop\Integrals\Integrals\bin\Debug\Integrals.pdb
+C:\Users\malkyatmuk\Desktop\Integrals\Integrals\obj\Debug\Integrals.exe
+C:\Users\malkyatmuk\Desktop\Integrals\Integrals\obj\Debug\Integrals.pdb
