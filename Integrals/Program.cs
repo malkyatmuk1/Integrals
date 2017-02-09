@@ -62,7 +62,7 @@ namespace Integrals
                     {
                         int k1 = k % 2; 
                         int k2 = (k + 1) % 2;
-                        //tuk se pravqt sumite
+                        
                         for (int i = 0; i <= n; i++)
                         {
                             double t = c + (2 * i - 1) * integral.D / 2.0d;
