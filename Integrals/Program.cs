@@ -94,7 +94,7 @@ namespace Integrals
 
                 double r1=0;
                 Console.WriteLine("+----+-----------+-------+-----------+-------+");
-                Console.WriteLine("| r  |    F-     |  F'-  |    F+     |  F'+  |");
+                Console.WriteLine("| r  |    e-     |  d'-  |    e+     |  d'+  |");
                 Console.WriteLine("+----+-----------+-------+-----------+-------+");
                 for (int i = 0; i < Rcnt; i++)
                 {
